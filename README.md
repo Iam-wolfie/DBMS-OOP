@@ -95,6 +95,7 @@ To add libraries:
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179398924776259594/Picture5.png?" width="550" height="300" />
 </p>
 
+#
 ### Installation
 
 #### 1. Clone the repository to your local machine:
@@ -143,6 +144,7 @@ NetBeans 8.2 requires you to install JDK separately. NetBeans 8.2 contains the J
 - From the context menu, select either "Build" or "Clean and Build."
 - The "Clean and Build" option not only builds the project but also cleans any existing build artifacts before building.
 
+#
 ### System Preview
 
 Here are some screenshots showcasing the usage of the Prestige Wheels system.
