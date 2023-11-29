@@ -13,7 +13,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage Preview](#usage-preview)
+  - [System Preview](#system-preview)
 - [Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [Meet the Team](#meet-the-team)
 
@@ -143,7 +143,7 @@ NetBeans 8.2 requires you to install JDK separately. NetBeans 8.2 contains the J
 - From the context menu, select either "Build" or "Clean and Build."
 - The "Clean and Build" option not only builds the project but also cleans any existing build artifacts before building.
 
-### Usage Preview
+### System Preview
 
 Here are some screenshots showcasing the usage of the Prestige Wheels system.
 
