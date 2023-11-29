@@ -8,23 +8,23 @@
 
 #
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [System Preview](#system-preview)
-- [Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
-- [Meet the Team](#meet-the-team)
+- [Introduction](#introduction) 📖
+- [Features](#features) ✨
+- [Getting Started](#getting-started) 🚀
+  - [Prerequisites](#prerequisites) 🛠️
+  - [Installation](#installation) 📦
+  - [System Preview](#system-preview) 🖥️
+- [Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs) 🌍
+- [Meet the Team](#meet-the-team) 🫂
 
 #
-## Introduction
+## Introduction 📖
 <p align="justify">
 Prestige Wheels is a Java and Database Management System (DBMS) project designed particularly for a car dealership. This system's main goal is to effectively track and control the company's expenditures for employees, managers, and products. Prestige Wheels also serves as a repository for storing essential information about employees, managers, customers, suppliers, and the various products in the company's inventory.
 </p>
 
 #
-## Features
+## Features ✨
 
 ### Owner
 - View expenses, income, and other financial transactions.
@@ -57,9 +57,9 @@ Prestige Wheels is a Java and Database Management System (DBMS) project designed
 - Expense details are restricted to owners.
 
 #
-## Getting Started
+## Getting Started 🚀
 
-### Prerequisites
+### Prerequisites 🛠️
 Before you begin, make sure you have the following requirements in place:
 
 - **Java Development Kit (JDK)**
@@ -96,7 +96,7 @@ To add libraries:
 </p>
 
 #
-### Installation
+### Installation 📦
 
 #### 1. Clone the repository to your local machine:
     git clone https://github.com/DBMS-OOP/Car_dealers.git
@@ -145,7 +145,7 @@ NetBeans 8.2 requires you to install JDK separately. NetBeans 8.2 contains the J
 - The "Clean and Build" option not only builds the project but also cleans any existing build artifacts before building.
 
 #
-### System Preview
+### System Preview 🖥️
 
 Here are some screenshots showcasing the usage of the Prestige Wheels system.
 
@@ -157,7 +157,7 @@ Here are some screenshots showcasing the usage of the Prestige Wheels system.
 </p>
 
 #
-## Sustainable Development Goals (SDGs)
+## Sustainable Development Goals (SDGs) 🌍
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179383128582783008/Untitled_design.png?" width="600" height="250" />
@@ -186,7 +186,7 @@ The collaborative features foster partnerships between employees and managers to
 </p>
 
 #
-## Meet the Team
+## Meet the Team 🫂
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179367299585671168/405357410_1146562466383514_7746461751389922901_n.jpg?" width="250" height="250" />
