@@ -6,6 +6,7 @@
   <strong>PRESTIGE WHEELS</strong>
 </p>
 
+#
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -16,12 +17,13 @@
 - [Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [Meet the Team](#meet-the-team)
 
+#
 ## Introduction
 <p align="justify">
 Prestige Wheels is a Java and Database Management System (DBMS) project designed particularly for a car dealership. This system's main goal is to effectively track and control the company's expenditures for employees, managers, and products. Prestige Wheels also serves as a repository for storing essential information about employees, managers, customers, suppliers, and the various products in the company's inventory.
 </p>
 
-
+#
 ## Features
 
 ### Owner
@@ -54,6 +56,7 @@ Prestige Wheels is a Java and Database Management System (DBMS) project designed
 - Tracks financial transactions, bonuses, and payroll.
 - Expense details are restricted to owners.
 
+#
 ## Getting Started
 
 ### Prerequisites
@@ -140,7 +143,7 @@ NetBeans 8.2 requires you to install JDK separately. NetBeans 8.2 contains the J
 - From the context menu, select either "Build" or "Clean and Build."
 - The "Clean and Build" option not only builds the project but also cleans any existing build artifacts before building.
 
-## Usage Preview
+### Usage Preview
 
 Here are some screenshots showcasing the usage of the Prestige Wheels system.
 
@@ -151,6 +154,7 @@ Here are some screenshots showcasing the usage of the Prestige Wheels system.
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179379984897429534/398336379_24190373920607189_1521341896817597420_n.png?" width="750" height="400" />
 </p>
 
+#
 ## Sustainable Development Goals (SDGs)
 
 <p align="center">
@@ -179,6 +183,7 @@ The inventory management system supports responsible consumption and production 
 The collaborative features foster partnerships between employees and managers to achieve sustainable development goals.
 </p>
 
+#
 ## Meet the Team
 
 <p align="center">
