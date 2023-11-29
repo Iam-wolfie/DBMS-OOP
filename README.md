@@ -161,22 +161,22 @@ The Prestige Wheels project aligns with several United Nations Sustainable Devel
 
 - **SDG 8: Economic Growth and Decent Work:**
 <p align="justify">
-  - Supports inclusive, sustainable, and long-term economic growth by handling payroll, financial transactions, and other employee-related accounting information.
+Supports inclusive, sustainable, and long-term economic growth by handling payroll, financial transactions, and other employee-related accounting information.
 </p>
 
 - **SDG 9: Infrastructure, Industry, and Innovation:**
 <p align="justify">
-  - Contributes to sustainable industrialization, resilient infrastructure development, and innovation through its Java and Database Management System.
+Contributes to sustainable industrialization, resilient infrastructure development, and innovation through its Java and Database Management System.
 </p>
 
 - **SDG 12: Responsible Production and Consumption:**
 <p align="justify">
-  - The inventory management system supports responsible consumption and production by effectively tracking and managing products, minimizing waste, and maximizing resource use.
+The inventory management system supports responsible consumption and production by effectively tracking and managing products, minimizing waste, and maximizing resource use.
 </p>
 
 - **SDG 17: Partnership for the Goals:**
 <p align="justify">
-  - The collaborative features foster partnerships between employees and managers to achieve sustainable development goals.
+The collaborative features foster partnerships between employees and managers to achieve sustainable development goals.
 </p>
 
 ## Meet the Team
