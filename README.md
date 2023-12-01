@@ -61,6 +61,7 @@ Enhanced features for improved employee-manager relationships and precise contro
 
 #
 ## 🚀Getting Started 
+Get your engines going! Follow our startup guide to accelerate your understanding of setting up your DBMS and Java project.
 
 ### 🛠️Prerequisites 
 Before you begin, make sure you have the following requirements in place:
