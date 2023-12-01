@@ -150,10 +150,10 @@ NetBeans 8.2 requires you to install JDK separately. NetBeans 8.2 contains the J
 Here are some screenshots showcasing the usage of the Prestige Wheels system.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179379984243105863/370262292_369565228786813_4094529522790844685_n.png?" width="750" height="400" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179379984570257425/371485146_2423250354519884_6263843783040957498_n.png?" width="750" height="400" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179380800161075240/370233680_201795419637181_5745040616613639091_n.png?" width="750" height="400" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179379984897429534/398336379_24190373920607189_1521341896817597420_n.png?" width="750" height="400" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707135307836/370253739_881587323236432_6834652439212325468_n.png?" width="750" height="400" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707483447406/369950173_723686479639432_237221289834186220_n.png?" width="750" height="400" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707823173702/393939211_704971728258353_7369036112684413047_n.png?" width="750" height="400" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152708133564427/371445788_908011620674526_3355029812912486760_n.png?" width="750" height="400" />
 </p>
 
 #
