@@ -82,7 +82,7 @@ Ensure that your operating system is supported by checking the [NetBeans downloa
 Verify that your system meets the minimum requirements for running NetBeans. Make sure you have an adequate amount of RAM and disk space for your projects.
 </p>
 
-#### Libraries
+#### 📚 Libraries
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179398923664773172/Picture1.png?" width="550" height="200" />
 </p>
@@ -165,22 +165,22 @@ Here are some screenshots showcasing the usage of the Prestige Wheels system.
 
 The Prestige Wheels project aligns with several United Nations Sustainable Development Goals (SDGs), including:
 
-- **SDG 8: Economic Growth and Decent Work:**
+- **SDG 8: Economic Growth and Decent Work 💼💸**
 <p align="justify">
 Supports inclusive, sustainable, and long-term economic growth by handling payroll, financial transactions, and other employee-related accounting information.
 </p>
 
-- **SDG 9: Infrastructure, Industry, and Innovation:**
+- **SDG 9: Infrastructure, Industry, and Innovation 🏗️🚀**
 <p align="justify">
 Contributes to sustainable industrialization, resilient infrastructure development, and innovation through its Java and Database Management System.
 </p>
 
-- **SDG 12: Responsible Production and Consumption:**
+- **SDG 12: Responsible Production and Consumption 🔄️🌱**
 <p align="justify">
 The inventory management system supports responsible consumption and production by effectively tracking and managing products, minimizing waste, and maximizing resource use.
 </p>
 
-- **SDG 17: Partnership for the Goals:**
+- **SDG 17: Partnership for the Goals 🤝🎯**
 <p align="justify">
 The collaborative features foster partnerships between employees and managers to achieve sustainable development goals.
 </p>
