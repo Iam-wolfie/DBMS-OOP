@@ -26,17 +26,17 @@ Prestige Wheels is a Java and Database Management System (DBMS) project designed
 #
 ## ✨Features
 
-### 🏢 Owner
+### Owner
 - View expenses, income, and other financial transactions.
 - Control financial activities by adding, deleting, updating, and searching data.
 
-### 👨‍💼 Manager
+### Manager
 - Access timesheets, employee lists, company positions, suppliers, and customers.
 - Manage collaborative tasks, including creating, updating, removing, and searching records.
 - View and manage inventory products.
 - Manage accounting records, including sales, purchases, bonuses, and payroll.
 
-### 👩‍💼 Employee
+### Employee
 - View customer, employee, and timesheet lists.
 - No permission to modify data; only view and search employee information.
 - Access and view inventory products.
@@ -44,15 +44,15 @@ Prestige Wheels is a Java and Database Management System (DBMS) project designed
 
 ### Additional Details
 
-#### 🤝 Collaborative
+#### Collaborative
 - Shared platform for collaborative tasks.
 - Enables searching, adding, changing, and removing records related to tasks, positions, and employees.
 
-#### 📦 Inventory
+#### Inventory
 - Maintains a product catalog.
 - Managers have full CRUD (Create, Read, Update, Delete) access, while employees have viewing access.
 
-#### 📊 Accounting
+#### Accounting
 - Tracks financial transactions, bonuses, and payroll.
 - Expense details are restricted to owners.
 
