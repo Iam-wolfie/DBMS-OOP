@@ -20,7 +20,7 @@
 #
 ## 📖Introduction 
 <p align="justify">
-Prestige Wheels, our Java and Database Management System (DBMS) project designed for our car dealership, operates as the digital engine that powers our operations. This system is optimized to track and control the company's expenditures, assuring a seamless journey for employees, managers, and products. Prestige Wheels serves as a repository that houses essential data about our employees, valued customers, trusted suppliers, and the wide variety of high-quality products in our showroom. Just like a well-designed car, this system drives us forward with precision, providing the smooth ride and reliable performance necessary for success in the dynamic automotive industry.
+Prestige Wheels, our Java and Database Management System (DBMS) project designed for our car dealership, operates as the digital engine that powers our operations. This system is optimized to track and control the company's expenditures, assuring a seamless journey for employees, managers, and products. Prestige Wheels also serves as a repository that houses essential data about our employees, valued customers, trusted suppliers, and the wide variety of high-quality products in our showroom. Just like a well-designed car, this system drives us forward with precision, providing the smooth ride and reliable performance necessary for success in the dynamic automotive industry.
 </p>
 
 #
