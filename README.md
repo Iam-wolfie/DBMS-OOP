@@ -20,11 +20,14 @@
 #
 ## 📖Introduction 
 <p align="justify">
-Prestige Wheels is a Java and Database Management System (DBMS) project designed particularly for a car dealership. This system's main goal is to effectively track and control the company's expenditures for employees, managers, and products. Prestige Wheels also serves as a repository for storing essential information about employees, managers, customers, suppliers, and the various products in the company's inventory.
+Prestige Wheels, our Java and Database Management System (DBMS) project designed for our car dealership, operates as the digital engine that powers our operations. This system is optimized to track and control the company's expenditures, assuring a seamless journey for employees, managers, and products. Prestige Wheels serves as a repository that houses essential data about our employees, valued customers, trusted suppliers, and the wide variety of high-quality products in our showroom. Just like a well-designed car, this system drives us forward with precision, providing the smooth ride and reliable performance necessary for success in the dynamic automotive industry.
 </p>
 
 #
-## ✨Features 
+## ✨Features
+<p align="justify">
+Enhanced features for improved employee-manager relationships and precise control over expenditures, all driven by our dedicated owner. Your fast track to success in the car industry.
+</p>
 
 ### 🏢 Owner
 - View expenses, income, and other financial transactions.
@@ -147,7 +150,7 @@ NetBeans 8.2 requires you to install JDK separately. NetBeans 8.2 contains the J
 #
 ### 🖥️System Preview 
 
-Here are some screenshots showcasing the usage of the Prestige Wheels system.
+Take a virtual test drive through these screenshots, showing the user-friendly handling of the Prestige Wheels expense tracking system as it navigates the complexities of car dealership management.
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707135307836/370253739_881587323236432_6834652439212325468_n.png?" width="750" height="400" />
@@ -172,7 +175,7 @@ Supports inclusive, sustainable, and long-term economic growth by handling payro
 
 - **SDG 9: Infrastructure, Industry, and Innovation 🏗️🚀**
 <p align="justify">
-Contributes to sustainable industrialization, resilient infrastructure development, and innovation through its Java and Database Management System.
+Contributes to sustainable industrialization, resilient infrastructure development, and innovation through the advanced capabilities of its Java and Database Management System.
 </p>
 
 - **SDG 12: Responsible Production and Consumption 🔄️🌱**
@@ -182,12 +185,14 @@ The inventory management system supports responsible consumption and production 
 
 - **SDG 17: Partnership for the Goals 🤝🎯**
 <p align="justify">
-The collaborative features foster partnerships between employees and managers to achieve sustainable development goals.
+The collaborative features, directed by the owner, foster partnerships between employees and managers to achieve sustainable development goals.
 </p>
 
 #
-## 🫂Meet the Team 
+## 🫂Meet the Team
+Get to know the team behind Prestige Wheels, a crew dedicated to driving success in the car dealership industry!
 
+<br>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179367299585671168/405357410_1146562466383514_7746461751389922901_n.jpg?" width="250" height="250" />
 </p>
@@ -197,6 +202,8 @@ The collaborative features foster partnerships between employees and managers to
 <p align="center">
   22-06424@g.batstate-u.edu.ph
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179423259100454922/01a2350f-a9f4-4879-8608-87cf180e695e.jpg?" width="250" height="250" />
@@ -208,6 +215,8 @@ The collaborative features foster partnerships between employees and managers to
   22-07128@g.batstate-u.edu.ph
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179422263251046430/photo.jpg?" width="250" height="250" />
 </p>
@@ -218,6 +227,8 @@ The collaborative features foster partnerships between employees and managers to
   22-03152@g.batstate-u.edu.ph
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179420232981426238/370242291_2440962639408589_4549766057669794496_n.jpg?" width="250" height="250" />
 </p>
@@ -227,6 +238,8 @@ The collaborative features foster partnerships between employees and managers to
 <p align="center">
   22-09416@g.batstate-u.edu.ph
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179393025370234980/403920257_6739503106119211_1501978745346261054_n.jpg?" width="250" height="250" />
