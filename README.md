@@ -42,7 +42,7 @@ Prestige Wheels is a Java and Database Management System (DBMS) project designed
 - Access and view inventory products.
 - View personal bonus information in accounting.
 
-### ℹ️ Additional Details
+### Additional Details
 
 #### 🤝 Collaborative
 - Shared platform for collaborative tasks.
