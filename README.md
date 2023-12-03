@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179305726166958100/LOGO.png?" width="350" height="350" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180709301271150623/Java_and_DBMS-Driven_Expense_Tracking_System.png?" width="350" height="350" />
 </p>
   
 <p align="center">
@@ -20,7 +20,7 @@
 #
 ## 📖Introduction 
 <p align="justify">
-Prestige Wheels is a Java and Database Management System (DBMS) project designed particularly for a car dealership. This system's main goal is to effectively track and control the company's expenditures for employees, managers, and products. Prestige Wheels also serves as a repository for storing essential information about employees, managers, customers, suppliers, and the various products in the company's inventory.
+Prestige Wheels is an OOP and Database Management System (DBMS) project designed particularly for a car dealership. This system's main goal is to effectively track and control the company's expenditures for employees, managers, and products. Prestige Wheels also serves as a repository for storing essential information about employees, managers, customers, suppliers, and the various products in the company's inventory.
 </p>
 
 #
@@ -170,7 +170,7 @@ Supports inclusive, sustainable, and long-term economic growth by handling payro
 
 - **SDG 9: Infrastructure, Industry, and Innovation**
 <p align="justify">
-Contributes to sustainable industrialization, resilient infrastructure development, and innovation through the advanced capabilities of its Java and Database Management System.
+Contributes to sustainable industrialization, resilient infrastructure development, and innovation through the advanced capabilities of its OOP and Database Management System.
 </p>
 
 - **SDG 12: Responsible Production and Consumption**
